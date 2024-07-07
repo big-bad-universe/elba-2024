@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://big-bad-universe.github.io/elba-2024/sitemap.xml
